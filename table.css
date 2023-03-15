@@ -1,0 +1,16 @@
+th{
+    background-color: rgb(129, 124, 124);
+    color:white;
+    border: 1px solid black;
+}
+td{
+    border:1px solid black;
+}
+.J{
+    background-color: white;
+    color: black;
+}
+.S{
+    background-color: rgb(181, 176, 169);
+    color:black;
+}
